@@ -1,5 +1,7 @@
 # A Simple ToDo List
 
+<img src="ToDo-Screenshot.jpg" alt="ToDo List">
+
 This is a basic CRUD app that lets you create your own ToDo list. Enter your tasks and as you complete them, simply click the task to have it completed and removed from the list. This was created using React, JavaScript, CSS, and HTML.
 
 ## Installation
@@ -8,7 +10,7 @@ Fork this repository and clone it or download all files by clicking the green co
 
 You can also interact with the page without having to download the files.
 
-
+<a href="https://leahselig.github.io/Simple-ToDo-List/"> Try It Out Here! </a>
 
 
 ## Roadmap

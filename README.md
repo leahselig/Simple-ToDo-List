@@ -10,7 +10,7 @@ Fork this repository and clone it or download all files by clicking the green co
 
 You can also interact with the page without having to download the files.
 
-<a href="https://leahselig.github.io/Simple-ToDo-List/"> Try It Out Here! </a>
+<a href="https://leahselig.github.io/Simple-ToDo-List/" target="_blank"> Try It Out Here! </a>
 
 
 ## Roadmap
